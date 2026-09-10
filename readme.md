@@ -20,3 +20,6 @@ Counts the lines, words, and characters in a file.
 
 ## 7. chmod
 Changes the read, write, and execute permissions on a file or directory.
+
+## 8. man
+Opens the manual page for a command.
