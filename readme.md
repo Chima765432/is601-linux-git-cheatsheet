@@ -26,3 +26,6 @@ Opens the manual page for a command.
 
 ## 9. history
 Lists the commands you have run previously in the shell.
+
+## 10. which
+Shows the full path of the program that runs when you type a command.
