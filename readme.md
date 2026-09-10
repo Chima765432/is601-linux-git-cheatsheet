@@ -32,3 +32,6 @@ Shows the full path of the program that runs when you type a command.
 
 ## 11. git init
 Creates a new Git repository in the current directory.
+
+## 12. git add
+Stages changes so they will be included in the next commit.
