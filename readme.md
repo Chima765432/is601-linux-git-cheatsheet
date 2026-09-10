@@ -5,3 +5,6 @@ Creates an empty file, or updates the timestamp on a file that already exists.
 
 ## 2. head
 Shows the first lines of a file.
+
+## 3. tail
+Shows the last lines of a file.
