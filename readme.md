@@ -41,3 +41,6 @@ Records the staged changes as a new commit in the repository history.
 
 ## 14. git branch
 Lists, creates, or deletes branches.
+
+## 15. git merge
+Combines the work from another branch into the current branch.
