@@ -38,3 +38,6 @@ Stages changes so they will be included in the next commit.
 
 ## 13. git commit
 Records the staged changes as a new commit in the repository history.
+
+## 14. git branch
+Lists, creates, or deletes branches.
