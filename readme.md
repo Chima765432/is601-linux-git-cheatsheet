@@ -23,3 +23,6 @@ Changes the read, write, and execute permissions on a file or directory.
 
 ## 8. man
 Opens the manual page for a command.
+
+## 9. history
+Lists the commands you have run previously in the shell.
