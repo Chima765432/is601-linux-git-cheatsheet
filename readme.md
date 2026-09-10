@@ -11,3 +11,6 @@ Shows the last lines of a file.
 
 ## 4. grep
 Searches for a pattern of text inside files.
+
+## 5. find
+Searches for files and directories by name or other attributes.
