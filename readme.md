@@ -29,3 +29,6 @@ Lists the commands you have run previously in the shell.
 
 ## 10. which
 Shows the full path of the program that runs when you type a command.
+
+## 11. git init
+Creates a new Git repository in the current directory.
