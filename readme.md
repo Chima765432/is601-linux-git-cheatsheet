@@ -8,3 +8,6 @@ Shows the first lines of a file.
 
 ## 3. tail
 Shows the last lines of a file.
+
+## 4. grep
+Searches for a pattern of text inside files.
